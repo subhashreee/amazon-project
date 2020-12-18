@@ -1,0 +1,102 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+.footer{
+    background-color: #555;
+    color: white;
+    width: 100%; 
+    position: fixed;
+}
+
+#options a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+#options li{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    list-style-type: none;
+    font-family: Lato;
+}
+ 
+.vertical-menu{
+    width: 200px;
+}
+
+.searchbar{
+    font-family: Lato;
+    margin: 10px;
+}
+
+.searchbar button{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.glyphicon-pencil{
+    color: white;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+#options li a {
+    font-family: Lato;
+}
+
+#verticalmenu{
+    opacity: 0.9;
+}
+
+#postpanel{
+    opacity: 0.9;
+}
+
+#tagpanel{
+    opacity: 0.9;
+}
+
+#tag li{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    list-style-type: none;
+    font-family: Lato;
+}
+ 
+.tag-menu{
+    width: 200px;
+}
+
+#tag a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+#tag li{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    list-style-type: none;
+    font-family: Lato;
+}
+
+#details p{
+    float:right;
+}
+
+#details{
+    font-size: 16px;
+}
+
+#newdetails .form-control{
+    float: right;
+    width: 600px;
+
+}
+
+#newdetails{
+    font-size:16px;
+}
+
